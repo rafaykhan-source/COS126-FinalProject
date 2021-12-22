@@ -47,7 +47,7 @@ public class PomodoroMachine {
                                + "Enter 'applause', 'bowling', 'siren', 'cow', "
                                + "'duck', 'geese', or 'mario'");
 
-        String soundAnswer = StdIn.readString() + ".wav";
+        String soundAnswer = "sounds/" + StdIn.readString() + ".wav";
 
         if (answer.equalsIgnoreCase("traditional")) {
 
