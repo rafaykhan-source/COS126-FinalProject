@@ -12,6 +12,6 @@ into terminal.
 
 ### Personal Pomodoro
 The personal pomodoro mode came from an idea I had of creating a pomodoro timer catered to one's attention span, 
-as some people can work for 40 minutes without losing focus, and other 25 minutes. So Instead of having them trial and error how long they
+as some people can work for 40 minutes without losing focus, and others 25 minutes. So instead of having them trial and error how long they
 think they can work without losing focus by selecting random times, the user simply just works until they lose focus and enters something 
-into terminal to log the time, which will be printed at the end of their study session.
+into terminal, which will log the time and print them at the end of their study session.
